@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+index.copy.css
+Weather-copy.css
+Weather-copy.jsx
+App-copy.jsx
